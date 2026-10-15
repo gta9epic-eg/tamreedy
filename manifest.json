@@ -1,0 +1,14 @@
+{
+  "name": "تمريضي - منصة مذاكرة لطلاب التمريض",
+  "short_name": "تمريضي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fe",
+  "theme_color": "#2563EB",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
